@@ -1,0 +1,8 @@
+E:\Users\kishan\source\repos\conday5ass-7\bin\Debug\conday5ass-7.exe.config
+E:\Users\kishan\source\repos\conday5ass-7\bin\Debug\conday5ass-7.exe
+E:\Users\kishan\source\repos\conday5ass-7\bin\Debug\conday5ass-7.pdb
+E:\Users\kishan\source\repos\conday5ass-7\obj\Debug\conday5ass-7.csproj.AssemblyReference.cache
+E:\Users\kishan\source\repos\conday5ass-7\obj\Debug\conday5ass-7.csproj.SuggestedBindingRedirects.cache
+E:\Users\kishan\source\repos\conday5ass-7\obj\Debug\conday5ass-7.csproj.CoreCompileInputs.cache
+E:\Users\kishan\source\repos\conday5ass-7\obj\Debug\conday5ass-7.exe
+E:\Users\kishan\source\repos\conday5ass-7\obj\Debug\conday5ass-7.pdb
